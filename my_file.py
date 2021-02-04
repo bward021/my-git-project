@@ -7,3 +7,6 @@ print('Hi')
 print('blah blah blahhh')
 
 print('boo')
+print('boo')
+print('boo')
+print('boo')
